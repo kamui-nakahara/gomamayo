@@ -1,0 +1,3 @@
+[submodule "nlp_kuromoji_js"]
+	path = nlp_kuromoji_js
+	url = git@github.com:yo16/nlp_kuromoji_js.git
